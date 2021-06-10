@@ -1,0 +1,50 @@
+ {
+    "student_id": 1803.03007,
+    "personal_info": 
+    [
+        {
+            "names": [
+                        {
+                            "first_name": "Joe",
+                            "last_name": "Biden"
+                        }
+                    ],
+            "date_of_birth": "28/07/70",
+            "contacts": [
+                            {
+                                "phone_number": ["0550678749", "0786647724"],
+                                "e-mail": "joe.biden@gmail.com"
+                            }
+                        ],
+            "adress": [
+                {
+                    "city" : "Bishkek",
+                    "street" : "Lomonosova, 218",
+                    "zipcode" : "710000"
+                }
+                    ]
+        }               
+    ],
+    "student_info": 
+    [
+        {
+            "faculty":"Tourism",
+            "department":"Hotel Management",
+            "year_of_study": 3,
+            "courses":
+            [
+                {
+                    "required":["Housekeeping", "Second Foreign Language", "English IV"],
+                    "selective":["Wine Culture", "Food and Beverage", "European Cuisine"]
+                }
+            ],
+            
+            "lives_in_dormitory": false,
+            "total_gpa": 3.80
+
+        }
+    ]
+    }
+
+                    
+            
